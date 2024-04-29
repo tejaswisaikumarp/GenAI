@@ -1,0 +1,12 @@
+### If the project is implementing via Jupyter notebook, Make sure you install the below modules
+### To install Chroma module, Microsoft Visual C++ greater than 14.0.0 is required.
+### Download link: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+langchain
+google-generativeai
+pymysql
+mysql-connector-python
+cryptography
+PyMySQL[rsa]
+langchain_experimental
+sentence_transformers
+chromadb
